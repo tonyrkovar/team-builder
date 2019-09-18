@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import TeamCards from './components/TeamDisplay';
 import TeamForms from './components/TeamForm';
@@ -9,7 +8,7 @@ function App() {
     {
     id: 1,
     name: 'Jeremy',
-    role: 'fighter',
+    role: 'Accountant',
     startDate: 'last week'
   }
 ])
